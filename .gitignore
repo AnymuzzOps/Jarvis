@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+models/
+*.onnx
+*.onnx.json
+*.gguf
+ggml-*.bin
+settings.json
+*.wav
